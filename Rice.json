@@ -1,0 +1,38 @@
+{
+    "TypesofRice": [
+        {
+            "name": "Basumati",
+            "weight": "2",
+            "price": "120"
+        },
+        {
+            "name": "Ponni",
+            "weight": "4",
+            "price": "150"
+        }
+    ],
+    "TypesofPulses": [
+        {
+            "name": "Lentils",
+            "weight": "12",
+            "price": "320"
+        },
+        {
+            "name": "Mung Daal",
+            "weight": "6",
+            "price": "245"
+        }
+    ],
+    "TypesofWheat": [
+        {
+            "name": "Wheat1",
+            "weight": "9",
+            "price": "175"
+        },
+        {
+            "name": "Wheat2",
+            "weight": "12",
+            "price": "350"
+        }
+    ]
+}
